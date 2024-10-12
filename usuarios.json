@@ -1,12 +1,12 @@
 {
     "usuarios": [
       {
-        "nombre": "usuario1",
-        "contrasena": "linux123"
+        "nombre": "Andres",
+        "contrasena": "linux-curso"
       },
       {
-        "nombre": "usuario2",
-        "contrasena": "tux456"
+        "nombre": "Moises",
+        "contrasena": "linux-curso"
       },
       {
         "nombre": "admin",
