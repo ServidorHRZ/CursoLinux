@@ -52,23 +52,5 @@
         "titulo": "Video 4 - Semana 3",
         "url": "https://drive.google.com/file/d/ID_DEL_VIDEO_4_SEMANA_3/preview"
       }
-    ],
-    "semana4": [
-      {
-        "titulo": "Video 1 - Semana 4",
-        "url": "https://drive.google.com/file/d/ID_DEL_VIDEO_1_SEMANA_4/preview"
-      },
-      {
-        "titulo": "Video 2 - Semana 4",
-        "url": "https://drive.google.com/file/d/ID_DEL_VIDEO_2_SEMANA_4/preview"
-      },
-      {
-        "titulo": "Video 3 - Semana 4",
-        "url": "https://drive.google.com/file/d/ID_DEL_VIDEO_3_SEMANA_4/preview"
-      },
-      {
-        "titulo": "Video 4 - Semana 4",
-        "url": "https://drive.google.com/file/d/ID_DEL_VIDEO_4_SEMANA_4/preview"
-      }
     ]
   }
