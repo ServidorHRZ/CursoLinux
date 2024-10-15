@@ -117,12 +117,27 @@
                 grid-template-columns: 1fr;
             }
         }
+        .logout-btn {
+            background-color: #dd4814;
+            color: #ffffff;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+            margin-top: 10px;
+            transition: background-color 0.3s ease;
+        }
+        .logout-btn:hover {
+            background-color: #c1390f;
+        }
     </style>
 </head>
 <body>
     <div class="welcome-container">
         <h1>Bienvenido al Curso Basico de Linux</h1>
         <p>Has iniciado sesión correctamente.</p>
+        <button id="logoutBtn" class="logout-btn">Cerrar Sesión</button>
     </div>
 
     <div class="hamburger-menu" onclick="toggleMenu()">
@@ -198,6 +213,11 @@
 
         // Mostrar la primera semana por defecto
         showWeek(1);
+
+        // Agregar función para cerrar sesión
+        document.getElementById('logoutBtn').addEventListener('click', function() {
+            window.location.href = 'index.html';
+        });
     </script>
 </body>
 </html>
