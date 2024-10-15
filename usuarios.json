@@ -1,16 +1,8 @@
 {
     "usuarios": [
       {
-        "nombre": "Andres",
-        "contrasena": "linux-curso"
-      },
-      {
-        "nombre": "Moises",
-        "contrasena": "linux-curso"
-      },
-      {
-        "nombre": "Linux",
-        "contrasena": "Linux-Curso"
+        "nombre": "linux",
+        "contrasena": "linux"
       }
     ]
-  }
+}
